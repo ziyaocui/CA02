@@ -35,7 +35,7 @@ from google.colab import drive #read file from google drive
 4. Import data from drive and use Gaussian model to predict and gives the accuracy score. 
 
 ## Conclusion
-Using Gaussian model training gives 96% of accuracy which is a very good prediction and Gaussian model follows normal distrbibution.
+Using Gaussian model training gives 96% of accuracy which is a very good prediction and Gaussian model follows normal distribution.
 
 ## Colab access
 https://drive.google.com/file/d/1W6qTMbpQWkWJxTDQuMrRaske1dETQrk7/view?usp=sharing
